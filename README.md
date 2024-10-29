@@ -71,6 +71,8 @@ Developed by: Register Number*/
       (The path of cshrc could vary depending on the installation destination)
       
 	After this you can see the window like below 
+![Screenshot (147)](https://github.com/user-attachments/assets/7624d21e-f0cc-4bab-a912-f39051c65bac)
+
 
 ### Fig 3:Invoke the Cadence Environment
 
@@ -83,12 +85,15 @@ or
 •	linux:/> nclaunch& // On subsequent calls to NCVERILOG 
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
+![Screenshot (144)](https://github.com/user-attachments/assets/983b3697-0510-4c51-b0da-6b44d2ed1a66)
 
 ### Fig 4:Setting Multi-step simulation
 
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
+![Screenshot (143)](https://github.com/user-attachments/assets/940028f5-88f9-41e7-b4d2-579ef2c3386e)
+
 
 ### Fig 5:cds.lib file Creation
 
@@ -111,6 +116,8 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+
+![Screenshot (142)](https://github.com/user-attachments/assets/ddc0237a-3895-4ceb-9b6c-4d4bedf11dfc)
 
 ### Fig 7: Nclaunch Window
 
@@ -166,9 +173,9 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 	Steps for simulation – Run the simulation command with simulator options
 
-### Fig 10: Design Browser window for simulation
 
-### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+
+![Screenshot (145)](https://github.com/user-attachments/assets/83b8faea-6386-4fe5-8877-a3bd91360aec)
 
 ### Fig 12: Simulation Waveform Window
 
